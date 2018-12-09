@@ -1,0 +1,6 @@
+﻿player_img girl2.png
+npc_img magician.png
+npc_name 마술사
+whose npc
+textb 거절되었습니다.
+end
